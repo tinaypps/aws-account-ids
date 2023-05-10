@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search AWS Public Account Ids</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        table {
+            width: 100%;
+        }
+        th, td {
+            padding: 0.5em;
+            text-align: left;
+        }
+        td:nth-child(3) {
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <input type="text" id="search" class="form-control" placeholder="Search here...">
+        <table class="table table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>Owner</th>
+                    <th>Description</th>
+                    <th>ID</th>
+                    <th>Source</th>
+                </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+        </table>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
