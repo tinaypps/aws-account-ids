@@ -1,1784 +1,1786 @@
-{
-  "owner": "Grafana",
-  "description": "Grafana CloudWatch Integration",
-  "id": "008923505280",
-  "source": "https://grafana.com/docs/grafana-cloud/integrations/integrations/integration-cloudwatch/"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - EU (Paris) - eu-west-3",
-  "id": "009996457667"
-},
-{
-  "owner": "Domo",
-  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
-  "description": "Domo",
-  "id": "010251424122"
-},
-{
-  "owner": "Nessus",
-  "source": "https://docs.tenable.com/tenableio/vulnerabilitymanagement/Content/Settings/Connectors_ConfigureAWS_KeylessAutoDiscovery.htm",
-  "description": "Nessus AWS Connector",
-  "id": "012615275169"
-},
-{
-  "owner": "New Relic",
-  "source": [
-    "https://docs.newrelic.com/docs/integrations/amazon-integrations/get-started/connect-aws-services-infrastructure",
-    "https://docs.newrelic.com/docs/infrastructure/new-relic-infrastructure/data-instrumentation/amazon-aws-ec2-integration-infrastructure"
-  ],
-  "description": "New Relic is an American software analytics company based in San Francisco, California.",
-  "id": "017663287629"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ap-northeast-2",
-  "id": "020402002396"
-},
-{
-  "owner": "DuckbillGroup",
-  "source": "https://www.lastweekinaws.com/blog/are-aws-account-ids-sensitive-information/",
-  "description": "Corey Quinn's Account ID",
-  "id": "024196225137"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - US West (N. California) - us-west-1",
-  "id": "027434742980"
-},
-{
-  "owner": "Symantec",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Cloud Workload Protection",
-  "id": "033496790460"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - US East (Ohio) - us-east-2",
-  "id": "033677994240"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Middle East (Bahrain) - me-south-1",
-  "id": "034638983726"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Europe (Frankfurt) - eu-central-1",
-  "id": "035351147821"
-},
-{
-  "owner": "Densify",
-  "source": "https://www.densify.com/docs/Content/Data_Collection_for_Public_Cloud_Systems/AWS_Data_Collection_Prerequisites_for_an_IAM_Role.htm",
-  "description": "Densify",
-  "id": "036437403198"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - China (Ningxia) - cn-northwest-1",
-  "id": "037604701340"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Europe (Milan) Region  - eu-south-1 ",
-  "id": "041313461515"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - AWS GovCloud (US-West) - us-gov-west-1",
-  "id": "048591011584"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Middle East (Bahrain) Region  - me-south-1 ",
-  "id": "051362938876"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "053454850223"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - EU (Frankfurt) - eu-central-1",
-  "id": "054676820928"
-},
-{
-  "owner": "CloudSploit",
-  "source": "https://cloudsploit.freshdesk.com/support/solutions/articles/17000008755-connecting-an-aws-account-to-cloudsploit",
-  "description": "CloudSploit's open-source cloud security scans find misconfigurations and security risks, allowing for mitigation before a compromise.",
-  "id": "057012691312"
-},
-{
-  "owner": "CloudZero",
-  "source": "https://www.cloudzero.com/hubfs/CloudZero%20Configuration%20Guide%20-%20Automated.pdf",
-  "description": "CloudZero",
-  "id": "061190967865"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - eu-west-3",
-  "id": "061510835048"
-},
-{
-  "owner": "Altus",
-  "source": "https://blog.cloudera.com/cloudera-altus-cloud-services-youre-in-control-part-2/",
-  "description": "Altus",
-  "id": "062663104137"
-},
-{
-  "owner": "Sophos",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Sophos Server Protection",
-  "id": "062897671886"
-},
-{
-  "owner": "Epsagon",
-  "source": "https://docs.epsagon.com/docs/faq",
-  "description": "Epsagon",
-  "id": "066549572091"
-},
-{
-  "owner": "Funnel",
-  "source": "https://help.funnel.io/en/articles/1494351-amazon-s3-bucket-configuration",
-  "description": "Funnel",
-  "id": "071303700930"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "075028567923"
-},
-{
-  "owner": "Qualys",
-  "source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
-  "description": "Qualys Cloud View",
-  "id": "080595016317"
-},
-{
-  "owner": "Ermetic",
-  "source": "https://github.com/ermetic/utilities/blob/main/AWS/ControlTower/cloudformation/ermetic-controltower.yaml",
-  "description": "Ermetic",
-  "id": "081802104111"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - US East (N. Virginia) - us-east-1",
-  "id": "086441151436"
-},
-{
-  "owner": "Nirmata",
-  "source": "https://nirmata-documentation.readthedocs.io/en/latest/CloudProviders.html",
-  "description": "Nirmata",
-  "id": "094919933512"
-},
-{
-  "owner": "SegmentIO",
-  "source": [
-    "https://segment.com/docs/destinations/amazon-s3/",
-    "https://segment.com/docs/destinations/amazon-kinesis/"
-  ],
-  "description": "SegmentIO",
-  "id": "107630771604"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - us-west-2",
-  "id": "109351309407"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - US West (Oregon) - us-west-2",
-  "id": "113285607260"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Asia Pacific (Singapore) - ap-southeast-1",
-  "id": "114774131450"
-},
-{
-  "owner": "Presidio",
-  "source": "customer IAM policy",
-  "description": "Presidio",
-  "id": "118652503430"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Hong Kong) - ap-east-1",
-  "id": "119688915426"
-},
-{
-  "owner": "Palo Alto Networks",
-  "source": "https://github.com/terraform-providers/terraform-provider-aws/issues/6674",
-  "description": "Palo Alto Networks",
-  "id": "122442690527"
-},
-{
-  "owner": "Teraproc",
-  "source": "http://www.teraproc.com/awskey/",
-  "description": "Teraproc Cloud Manager is a complete solution of managing a heterogeneous cloud computing environment.",
-  "id": "122931797421"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - US East (N. Virginia) - us-east-1",
-  "id": "127311923021"
-},
-{
-  "owner": "SignalFx",
-  "source": "https://signalfx-product-docs.readthedocs-hosted.com/en/latest/getting-started/send-data.html",
-  "description": "SignalFx is the only real-time cloud monitoring platform for infrastructure, microservices, and applications.",
-  "id": "134183635603"
-},
-{
-  "owner": "Orca Security",
-  "description": "Orca Security",
-  "id": "135916806842",
-  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
-},
-{
-  "owner": "TrendMicro",
-  "source": "https://help.deepsecurity.trendmicro.com/Add-Computers/add-aws.html",
-  "description": "TrendMicro",
-  "id": "147995105371"
-},
-{
-  "owner": "Barracuda Networks",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-barracuda-cloud-security-guardian",
-  "description": "Barracuda Cloud Security Sentry",
-  "id": "151784055945"
-},
-{
-  "owner": "Slack EKM",
-  "source": "https://slackhq.com/dotcom/dotcom/wp-content/uploads/sites/6/2019/08/Slack-EKM-Implementation-Guide-3.pdf",
-  "description": "Slack Enterprise Key Management Account",
-  "id": "152659312504"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - EU (Ireland) - eu-west-1",
-  "id": "156460612806"
-},
-{
-  "owner": "Cloudability",
-  "source": "https://github.com/edrans/tf-aws-iam-cloudability",
-  "description": "Cloudability is a cloud cost management platform that improves visibility, optimization, governance and more across cloud environments.",
-  "id": "165736516723"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ap-east-1",
-  "id": "174803364771"
-},
-{
-  "owner": "Xi Frame",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Xi Frame",
-  "id": "178591426237"
-},
-{
-  "owner": "Palo Alto Networks",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Palo Alto Networks Cloud Enterprise (formerly Redlock)",
-  "id": "188619942792"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - China (Beijing) - cn-north-1",
-  "id": "193415116832"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "193672423079"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ap-southeast-1",
-  "id": "195145609632"
-},
-{
-  "owner": "Wiz",
-  "description": "Wiz",
-  "id": "197171649850"
-},
-{
-  "owner": "Azure Sentinel",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Azure Sentinel",
-  "id": "197857026523"
-},
-{
-  "owner": "Snyk",
-  "source": "https://support.snyk.io/hc/en-us/articles/360004002418-AWS-Lambda-integration",
-  "description": "Snyk",
-  "id": "198361731867"
-},
-{
-  "owner": "VManage",
-  "source": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/Network-Optimization-and-High-Availability/Network-Optimization-High-Availability-book/b_Network-Optimization-and-HA_chapter_00.html",
-  "description": "VManage",
-  "id": "200235630647"
-},
-{
-  "owner": "nOps",
-  "source": "https://help.nops.io/manual_setup",
-  "description": "nOps",
-  "id": "202279780353"
-},
-{
-  "owner": "Qualys",
-  "source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
-  "description": "Qualys Cloud View",
-  "id": "205767712438"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "210876761215"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Tokyo) - ap-northeast-1",
-  "id": "216624486486"
-},
-{
-  "owner": "Rockset",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Rockset",
-  "id": "216690786812"
-},
-{
-  "owner": "Stitch",
-  "source": "https://www.stitchdata.com/docs/destinations/amazon-s3/connecting-an-amazon-s3-data-warehouse-to-stitch",
-  "description": "Stitch",
-  "id": "218546966473"
-},
-{
-  "owner": "Cloudinary",
-  "source": "https://support.cloudinary.com/hc/en-us/articles/203276521-How-do-I-allow-Cloudinary-to-read-from-my-private-S3-bucket-",
-  "description": "Cloudinary",
-  "id": "232482882421"
-},
-{
-  "owner": "AlertLogic",
-  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
-  "description": "AlertLogic",
-  "id": "239734009475"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Europe (Ireland) Region  - eu-west-1 ",
-  "id": "246478207311"
-},
-{
-  "owner": "Turbot",
-  "source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
-  "description": "Turbot",
-  "id": "255798382450"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "262260360010"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Europe (Paris) - eu-west-3",
-  "id": "262312530599"
-},
-{
-  "owner": "SignifAI",
-  "source": "https://docs.signifai.io/docs/amazon-web-services",
-  "description": "Predict and prevent downtime with artificial intelligence and machine learning for Site Reliability Engineers.",
-  "id": "265975144233"
-},
-{
-  "owner": "CloudWisdom",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "CloudWisdom, metricly",
-  "id": "270852171095"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Europe (London) - eu-west-2",
-  "id": "282025262664"
-},
-{
-  "owner": "LogicMonitor",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "LogicMonitor",
-  "id": "282028653949"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Sydney) - ap-southeast-2",
-  "id": "284668455005"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - sa-east-1",
-  "id": "287228555773"
-},
-{
-  "owner": "Turbot",
-  "source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
-  "description": "Turbot",
-  "id": "287590803701"
-},
-{
-  "owner": "McAfee",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "McAfee MVISION Cloud Native Application Protection Platform (CNAPP)",
-  "id": "297986523463"
-},
-{
-  "owner": "EDB Postgres",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "EDB Postgres",
-  "id": "305753120797"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "307160386991"
-},
-{
-  "owner": "McAfee",
-  "source": "https://docs.mcafee.com/bundle/prod-name-n.n.x-guide-type/page/GUID-9B6E696A-78DA-4F41-A0FC-39699DD39639.html",
-  "description": "MVision ePO",
-  "id": "307653271100"
-},
-{
-  "owner": "Google",
-  "source": "https://support.stackdriver.com/customer/portal/articles/1491790-setting-up-stackdriver-for-your-aws-account",
-  "description": "Stackdriver aggregates metrics, logs, and events from infrastructure, giving developers and operators a rich set of observable signals that speed root-cause analysis and reduce mean time to resolution (MTTR).",
-  "id": "314658760392"
-},
-{
-  "owner": "Guardicore",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Guardicore Centra and Infection Monkey",
-  "id": "324264561773"
-},
-{
-  "owner": "Globus",
-  "source": "https://docs.globus.org/how-to/amazon-aws-s3-endpoints/",
-  "description": "Research data management simplified.",
-  "id": "328067584297"
-},
-{
-  "owner": "Orbitera",
-  "source": "https://support.orbitera.com/support/solutions/articles/147040-add-new-aws-accounts",
-  "description": "The Cloud Commerce Platform",
-  "id": "328676173091"
-},
-{
-  "owner": "Rapid7",
-  "source": "https://insightvm.help.rapid7.com/docs/aws-connect-to-cloud-configuration-assessment",
-  "description": "Rapid7 InsightVM Cloud Configuration",
-  "id": "336818582268"
-},
-{
-  "owner": "Domo",
-  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
-  "description": "Domo",
-  "id": "339405024189"
-},
-{
-  "owner": "Anodot",
-  "source": "https://support.anodot.com/hc/en-us/articles/360034553113-Enable-Reading-from-the-Kinesis-Stream",
-  "description": "Anodot",
-  "id": "340481513670"
-},
-{
-  "owner": "Armor Anywhere",
-  "source": [
-    "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-    "https://docs.armor.com/pages/viewpage.action?pageId=20709565"
-  ],
-  "description": "Armor Anywhere",
-  "id": "345186984524"
-},
-{
-  "owner": "CloudCheckr",
-  "source": "https://support.cloudcheckr.com/cloudcheckr-api-userguide/cloudcheckr-admin-api-reference-guide/",
-  "description": "CloudCheckr's cloud management platform provides cost management, security, reporting and analytics to help users optimize their AWS and Azure environments.",
-  "id": "352813966189"
-},
-{
-  "owner": "Workato",
-  "source": "https://docs.workato.com/connectors/s3.html",
-  "description": "Workato",
-  "id": "353360065216"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "361669875840"
-},
-{
-  "owner": "Forcepoint",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-forcepoint-casb",
-  "description": "Forcepoint CASB, DLP, NGFW",
-  "id": "365761988620"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - US East (N. Virginia) Region  - us-east-1 ",
-  "id": "368064434614"
-},
-{
-  "owner": "Fugue",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Fugue",
-  "id": "370134896156"
-},
-{
-  "owner": "Weave Cloud",
-  "source": "https://eksctl.io/",
-  "description": "Weave Cloud",
-  "id": "376248598259"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Asia Pacific (Osaka-Local) - ap-northeast-3",
-  "id": "383597477331"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html#step-2",
-  "description": "Billing",
-  "id": "386209384616"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - US West (N. California) - us-west-1",
-  "id": "388731089494"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "391106570357"
-},
-{
-  "owner": "Cloudflare",
-  "source": "https://developers.cloudflare.com/logs/logpush/aws-s3",
-  "description": "Cloudflare",
-  "id": "391854517948"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - us-east-1",
-  "id": "392220576650"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - South America (São Paulo) Region  - sa-east-1 ",
-  "id": "392442076723,"
-},
-{
-  "owner": "Summit Route",
-  "source": "https://summitroute.com/aws_security_assessments/",
-  "description": "Summit Route",
-  "id": "393727464233"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - eu-north-1",
-  "id": "394634713161"
-},
-{
-  "owner": "Zencoder",
-  "source": "https://support.brightcove.com/using-zencoder-s3",
-  "description": "The Performance Leader in File Cloud Encoding",
-  "id": "395540211253"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Osaka) Region  - ap-northeast-3 ",
-  "id": "398671365691"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "404641285394"
-},
-{
-  "owner": "Axonius.com",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Axonius.com",
-  "id": "405773942477"
-},
-{
-  "owner": "Logz.io",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Logz.io",
-  "id": "406095609952"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Mumbai) Region  - ap-south-1 ",
-  "id": "408097707231"
-},
-{
-  "owner": "Databricks",
-  "source": "https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html",
-  "description": "Databricks",
-  "id": "414351767826"
-},
-{
-  "owner": "rev.com",
-  "source": "https://www.rev.com/api/s3bucketpolicy",
-  "description": "rev.com",
-  "id": "414502572119"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Africa (Cape Town) Region  - af-south-1 ",
-  "id": "420376844563"
-},
-{
-  "owner": "Tenable",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Tenable.io",
-  "id": "422820575223"
-},
-{
-  "owner": "Upsolver",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Upsolver",
-  "id": "428641199958"
-},
-{
-  "owner": "QRadar",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "QRadar",
-  "id": "429269239926"
-},
-{
-  "owner": "Slack S3 Account",
-  "source": "https://slackhq.com/dotcom/dotcom/wp-content/uploads/sites/6/2019/08/Slack-EKM-Implementation-Guide-3.pdf",
-  "description": "Slack’s AWS account number which serves files from S3",
-  "id": "429538831549"
-},
-{
-  "owner": "Microsoft",
-  "source": "https://docs.microsoft.com/en-us/azure/cost-management/aws-integration-manage",
-  "description": "Azure Billing Management",
-  "id": "432263259397"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Europe (Frankfurt) Region  - eu-central-1 ",
-  "id": "434091160558"
-},
-{
-  "owner": "Lacework",
-  "description": "Lacework",
-  "id": "434813966438"
-},
-{
-  "owner": "Turbot",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Turbot",
-  "id": "453761072151"
-},
-{
-  "owner": "Cloudhealth",
-  "source": "https://github.com/mozilla/security/blob/master/operations/cloudformation-templates/cloudhealth_iam_role.json",
-  "description": "Cloudhealth",
-  "id": "454464851268"
-},
-{
-  "owner": "Orca Security",
-  "description": "Orca Security",
-  "id": "463932680998",
-  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
-},
-{
-  "owner": "Datadog",
-  "source": "https://docs.datadoghq.com/integrations/amazon_web_services/",
-  "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
-  "id": "464622532012"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - US West (Oregon) Region  - us-west-2 ",
-  "id": "473191095985"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - eu-central-1",
-  "id": "474240146802"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - US East (Ohio) - us-east-2",
-  "id": "475085895292"
-},
-{
-  "owner": "Skeddly",
-  "source": "http://thecloudmarket.com/owner/478299826944",
-  "description": "Skeddly schedules and automates your cloud resources on Amazon Web Services, Microsoft Azure, and Google Cloud Platform.",
-  "id": "478299826944"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Sydney) Region  - ap-southeast-2 ",
-  "id": "485979073181"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Seoul) - ap-northeast-2",
-  "id": "492519147666"
-},
-{
-  "owner": "Palo Alto Networks",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Palo Alto Networks Prisma Cloud Compute (formerly Twistlock)",
-  "id": "496947949261"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ap-south-1",
-  "id": "507069717855"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - South America (São Paulo) - sa-east-1",
-  "id": "507241528517"
-},
-{
-  "owner": "Rackspace",
-  "source": "https://manage.rackspace.com/aws/docs/product-guide/patching/ec2/meltdown.html",
-  "description": "Rackspace Inc. is an American managed cloud computing company based in Windcrest, Texas, a suburb of San Antonio.",
-  "id": "507897595701"
-},
-{
-  "owner": "Dynatrace",
-  "source": "https://help.dynatrace.com/monitor-cloud-virtualization-and-hosts/cloud/how-do-i-start-amazon-web-services-monitoring/",
-  "description": "Dynatrace is a software intelligence company providing application performance management, artificial intelligence for operations, cloud infrastructure monitoring, and digital experience management, with products for the information technology departments and digital business owners of medium and large businesses.",
-  "id": "509560245411"
-},
-{
-  "owner": "ChaosSearch",
-  "source": "https://docs.chaossearch.io/docs/prerequisites",
-  "description": "ChaosSearch",
-  "id": "515570774723"
-},
-{
-  "owner": "CrowdStrike",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-crowdstrike-falcon",
-  "description": "CrowdStrike Falcon",
-  "id": "517716713836"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Africa (Cape Town) - af-south-1",
-  "id": "525921808201"
-},
-{
-  "owner": "CenturyLinkCloud",
-  "source": "https://www.ctl.io/knowledge-base/cloud-application-manager/deploying-anywhere/using-your-aws-account/",
-  "description": "Centurylink Cloud offers secure enterprise cloud services ideal for business apps, IaaS, PaaS, SaaS, DBaaS and cloud management in a single platform.",
-  "id": "540339316802"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - eu-west-2",
-  "id": "544388816663"
-},
-{
-  "owner": "CloudHiro",
-  "source": "https://cloudhiro.com/AWS/AWSRegistrationGuide.php",
-  "description": "CloudHiro",
-  "id": "545334166883"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Europe (Stockholm) Region  - eu-north-1 ",
-  "id": "553461782468"
-},
-{
-  "owner": "Orca Security",
-  "description": "Orca Security",
-  "id": "553950354547",
-  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
-},
-{
-  "owner": "Cloud Ranger",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Cloud Ranger",
-  "id": "558211695259"
-},
-{
-  "owner": "Cisco Umbrella",
-  "source": "https://docs.umbrella.com/umbrella-user-guide/docs/enable-logging-to-your-own-s3-bucket",
-  "description": "Cisco Umbrella",
-  "id": "568526795995"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Asia Pacific (Tokyo) - ap-northeast-1",
-  "id": "582318560864"
-},
-{
-  "owner": "SegmentIO",
-  "source": [
-    "https://segment.com/docs/destinations/amazon-s3/",
-    "https://segment.com/docs/destinations/amazon-kinesis/"
-  ],
-  "description": "SegmentIO",
-  "id": "595280932656"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Asia Pacific (Seoul) - ap-northeast-2",
-  "id": "600734575887"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - AWS GovCloud (US-West) - us-gov-west-1",
-  "id": "608710470296"
-},
-{
-  "owner": "JupiterOne",
-  "source": "https://github.com/JupiterOne/jupiterone-aws-cloudformation/commit/0adf947dc98404cef1eee1f570f39c05c87d3f41",
-  "description": "JupiterOne",
-  "id": "612791702201"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Tokyo) Region  - ap-northeast-1 ",
-  "id": "615915377779"
-},
-{
-  "owner": "Freshservice",
-  "source": "https://support.freshservice.com/support/solutions/articles/207515-creating-a-role-arn-for-integrating-amazon-web-services-aws-in-freshservice",
-  "description": "Cloud based ITSM software for your service desk",
-  "id": "618708667954"
-},
-{
-  "owner": "Domo",
-  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
-  "description": "Domo",
-  "id": "622384692065"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Jakarta) Region  - ap-southeast-3 ",
-  "id": "623197973179"
-},
-{
-  "owner": "Instaclustr",
-  "source": "https://support.instaclustr.com/hc/en-us/articles/226565607-Setting-Up-a-Datacenter-with-EBS-Encryption",
-  "description": "Managed and supported open source solutions for Apache Cassandra, Apache Kafka, Apache Spark, Elasticsearch, Apache Zeppelin, Kibana etc",
-  "id": "624537489435"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - eu-west-1",
-  "id": "631144002099"
-},
-{
-  "owner": "Check Point",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-checkpoint-cloudguard-posture-management",
-  "description": "Check Point CloudGuard Posture Management",
-  "id": "634729597623"
-},
-{
-  "owner": "RedLine13",
-  "source": "https://www.redline13.com/blog/aws-setup/",
-  "description": "Open Architecture for Building and Running Load Tests",
-  "id": "635144173025"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - China (Beijing) - cn-north-1",
-  "id": "638102146993"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Hong Kong) Region  - ap-east-1 ",
-  "id": "651179539253"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - EU (London) - eu-west-2",
-  "id": "652711504416"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "660998842044"
-},
-{
-  "owner": "Convox",
-  "source": "https://convox.com/docs/aws-integration",
-  "description": "Convox",
-  "id": "665986001363"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Europe (Milan) - eu-south-1",
-  "id": "669305197877"
-},
-{
-  "owner": "Zesty",
-  "source": "https://github.com/zesty-co/AWS-Integration/blob/main/Zesty-Minimal-ReadOnly-IAM-Role.json",
-  "description": "Zesty",
-  "id": "672188301118"
-},
-{
-  "owner": "ThingSpace",
-  "source": "https://thingspace.verizon.com/resources/documentation/cloudconnector/Getting_Started/Streaming_to_AWS/",
-  "description": "ThingSpace",
-  "id": "675479154635"
-},
-{
-  "owner": "Armor Anywhere",
-  "source": [
-    "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-armor-anywhere",
-    "https://docs.armor.com/pages/viewpage.action?pageId=20709565"
-  ],
-  "description": "Armor Anywhere",
-  "id": "679703615338"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - China (Ningxia) - cn-northwest-1",
-  "id": "681348832753"
-},
-{
-  "owner": "Domo",
-  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
-  "description": "Domo",
-  "id": "687132894031"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Europe (Paris) Region  - eu-west-3 ",
-  "id": "694668203235"
-},
-{
-  "owner": "NetApp",
-  "source": "https://docs.netapp.com/us-en/cloud_volumes/aws/media/cvs_aws_account_setup.pdf",
-  "description": "CloudManager for CloudVolumes",
-  "id": "695990169366"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - US West (N. California) Region  - us-west-1 ",
-  "id": "703715109447"
-},
-{
-  "owner": "ylastic",
-  "source": "https://blog.ylastic.com/post/153943542476/iam-role-with-external-id-for-cross-account-access",
-  "description": "ylastic",
-  "id": "710193521658"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Seoul) Region  - ap-northeast-2 ",
-  "id": "713597048934"
-},
-{
-  "owner": "CloudConformity",
-  "source": "https://github.com/cloudconformity/documentation-api/blob/master/Accounts.md#update-account",
-  "description": "CloudConformity",
-  "id": "717210094962"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Asia Pacific (Mumbai) - ap-south-1",
-  "id": "718504428378"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - us-east-2",
-  "id": "718770453195"
-},
-{
-  "owner": "Kochava",
-  "source": "https://support.kochava.com/reference-information/traffic-import-tool",
-  "description": "Kochava is the industry leader for mobile app attribution and mobile app analytics. ",
-  "id": "719465667078"
-},
-{
-  "owner": "TheGlobalSolutions.net",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "TheGlobalSolutions.net",
-  "id": "726941830086"
-},
-{
-  "owner": "Orca Security",
-  "description": "Orca Security",
-  "id": "727815099310",
-  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
-},
-{
-  "owner": "AlertLogic",
-  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
-  "description": "AlertLogic",
-  "id": "733251395267"
-},
-{
-  "owner": "CyberArk",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-cyberark-privileged-threat-analytics",
-  "description": "Privileged Threat Analytics",
-  "id": "749430749651"
-},
-{
-  "owner": "Brightcove",
-  "source": "https://support.brightcove.com/using-dynamic-ingest-s3",
-  "description": "Brightcove, Inc. is a Boston, Massachusetts–based software company that produces an online video platform.",
-  "id": "749779118921"
-},
-{
-  "owner": "ParkMyCloud",
-  "source": "https://parkmycloud.atlassian.net/wiki/spaces/PMCUG/pages/43876427/Create+an+IAM+Role+in+AWS+for+ParkMyCloud",
-  "description": "ParkMyCloud, a Turbonomic company, provides an easy-to-use platform that helps enterprises automatically identify and eliminate wasted cloud spend.",
-  "id": "753542375798"
-},
-{
-  "owner": "Symantec",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Cloud Workload Protection",
-  "id": "754237914691"
-},
-{
-  "owner": "New Relic",
-  "source": [
-    "https://docs.newrelic.com/docs/integrations/amazon-integrations/get-started/connect-aws-services-infrastructure",
-    "https://docs.newrelic.com/docs/infrastructure/new-relic-infrastructure/data-instrumentation/amazon-aws-ec2-integration-infrastructure"
-  ],
-  "description": "New Relic is an American software analytics company based in San Francisco, California.",
-  "id": "754728514883"
-},
-{
-  "owner": "Cloudbreak",
-  "source": "https://github.com/hortonworks/cloudbreak",
-  "description": "A tool for provisioning and managing Apache Hadoop clusters in the cloud.",
-  "id": "755047402263"
-},
-{
-  "owner": "Check Point",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-checkpoint-cloudguard-iaas",
-  "description": "Check Point CloudGuard IaaS",
-  "id": "758245563457"
-},
-{
-  "owner": "cloudsqueeze",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "cloudsqueeze",
-  "id": "759994998399"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "760740231472"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "762762565011"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Canada (Central) Region  - ca-central-1 ",
-  "id": "764870610256"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Osaka) - ap-northeast-3",
-  "id": "765225791966"
-},
-{
-  "owner": "Genys",
-  "source": "https://help.mypurecloud.com/articles/create-iam-resources-to-invoke-an-aws-lambda-function/",
-  "description": "Genys",
-  "id": "765628985471"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Asia Pacific (Sydney) - ap-southeast-2",
-  "id": "783225319266"
-},
-{
-  "owner": "Orca Security",
-  "description": "Orca Security",
-  "id": "784971140435",
-  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - US East (Ohio) Region  - us-east-2 ",
-  "id": "790247189693"
-},
-{
-  "owner": "MediaMath",
-  "source": "https://apidocs.mediamath.com/reporting/log-level-data-service/overview#data-security-and-authorization",
-  "description": "MediaMath",
-  "id": "794878508631"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ca-central-1",
-  "id": "796887884028"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - US West (Oregon) - us-west-2",
-  "id": "797873946194"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ap-southeast-2",
-  "id": "798376113853"
-},
-{
-  "owner": "Lucidchart",
-  "source": "https://lucidchart.zendesk.com/hc/en-us/articles/208018563-Create-an-IAM-User-or-a-Cross-Account-Role-in-AWS-for-Lucidchart",
-  "description": "Lucidchart",
-  "id": "799803075172"
-},
-{
-  "owner": "Serverless",
-  "source": "https://www.serverless.com/framework/docs/guides/monitoring/notifications",
-  "description": "Serverless framework",
-  "id": "802587217904"
-},
-{
-  "owner": "Axonius.com",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Axonius.com",
-  "id": "802876684602"
-},
-{
-  "owner": "qubole",
-  "source": "https://docs.qubole.com/en/latest/user-guide/managing-accounts/aws/iam-roles/override-iam-roles.html",
-  "description": "qubole",
-  "id": "805246085872"
-},
-{
-  "owner": "Qualys",
-  "source": "https://qualys-secure.force.com/discussions/s/question/0D52L00004TnxTqSAJ/aws-ec2-connector-creation-automation",
-  "description": "Qualys AWS EC2 Connector",
-  "id": "805950163170"
-},
-{
-  "owner": "Cloudaware",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Cloudaware",
-  "id": "814021343637"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - South America (São Paulo) - sa-east-1",
-  "id": "814480443879"
-},
-{
-  "owner": "Axonius.com",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Axonius.com",
-  "id": "817364327683"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Canada (Central) - ca-central-1",
-  "id": "819402241893"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Europe (Stockholm) - eu-north-1",
-  "id": "829690693026"
-},
-{
-  "owner": "Fivetran",
-  "source": "https://fivetran.com/docs/logs/cloudwatch/setup-guide",
-  "description": "Fivetran",
-  "id": "834469178297"
-},
-{
-  "owner": "Data Theorem",
-  "description": "Data Theorem",
-  "id": "835257243705"
-},
-{
-  "owner": "Citrix",
-  "source": "https://docs.citrix.com/en-us/citrix-application-delivery-management-service/hybrid-multi-cloud-deployments/autoscale-for-aws/autoscale-for-aws-configuration.html",
-  "description": "ADC Application Deployment, ADM Delivery Management",
-  "id": "835822366011"
-},
-{
-  "owner": "Onelogin",
-  "description": "Onelogin",
-  "id": "842984801698"
-},
-{
-  "owner": "FoxPass",
-  "source": "https://docs.foxpass.com/docs/access-control-integration-with-amazon-ec2",
-  "description": "FoxPass",
-  "id": "843529240033"
-},
-{
-  "owner": "FortiCWP",
-  "source": "https://docs.fortinet.com/document/forticwp/4.4.0/online-help/828941/amazon-web-services",
-  "description": "FortiCWP",
-  "id": "854209929931"
-},
-{
-  "owner": "GitLab",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "GitLab",
-  "id": "855262394183"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - me-south-1",
-  "id": "855739686837"
-},
-{
-  "owner": "AlertLogic",
-  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
-  "description": "AlertLogic",
-  "id": "857795874556"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://forums.aws.amazon.com/thread.jspa?messageID=629256",
-  "description": "[Deprecated] AWS Log delivery Service",
-  "id": "858827067514"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Europe (Ireland) - eu-west-1",
-  "id": "859597730677"
-},
-{
-  "owner": "Deep Security",
-  "source": "https://esupport.trendmicro.com/media/13166096/Generate-AWS-Role.pdf",
-  "description": "Trend Micro's Deep Security is an intelligent data protection solution that services all environments and was built purposefully to support VMware deployments.",
-  "id": "862820443276"
-},
-{
-  "owner": "CloudPhysics",
-  "source": "https://www.cloudphysics.com/connectaws/",
-  "description": "CloudPhysics",
-  "id": "863002038009"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "865932855811"
-},
-{
-  "owner": "Emnify",
-  "source": "https://www.emnify.com/datastreamer-integration-into-aws",
-  "description": "Emnify",
-  "id": "884047677700"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Europe (London) Region  - eu-west-2 ",
-  "id": "885798887673"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - AWS GovCloud (US-East) - us-gov-east-1",
-  "id": "886388586500"
-},
-{
-  "owner": "Bridgecrew",
-  "description": "Bridgecrew",
-  "id": "890234264427"
-},
-{
-  "owner": "Threat Stack",
-  "source": "https://threatstack.zendesk.com/hc/en-us/articles/206006626-AWS-EC2-Integration",
-  "description": "Threat Stack",
-  "id": "896126563706"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "902366379725"
-},
-{
-  "owner": "wpengine",
-  "source": "https://wpengine.com/support/configuring-largefs-store-transfer-unlimited-data/",
-  "description": "wpengine",
-  "id": "902500896138"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Singapore) - ap-southeast-1",
-  "id": "903692715234"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "907379612154"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "Redshift logs",
-  "id": "915173422425"
-},
-{
-  "owner": "Spotinst",
-  "source": "https://help.spotinst.com/hc/en-us/articles/360000343509-Functions-Permissions-Model-IAM-Role-",
-  "description": "Spotinst",
-  "id": "922761411349"
-},
-{
-  "owner": "Sumo Logic",
-  "source": "https://help.sumologic.com/03Send-Data/sources/02sources-for-Hosted-Collectors/Amazon-Web-Services/Grant-Access-to-an-AWS-Product#IAM_Role",
-  "description": "Account belonging to Sumo Logic used for ingestion of logs from customers' AWS accounts",
-  "id": "926226587429"
-},
-{
-  "owner": "Permiso",
-  "description": "Permiso",
-  "id": "940313271035"
-},
-{
-  "owner": "Fugue",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Fugue",
-  "id": "944830124550"
-},
-{
-  "owner": "IBM",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "IBM QRadar SIEM",
-  "id": "949680696695"
-},
-{
-  "owner": "site24x7",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "site24x7",
-  "id": "949777495771"
-},
-{
-  "owner": "Auth0",
-  "source": "https://auth0.com/docs/integrations/aws/sso",
-  "description": "Auth0",
-  "id": "951887872838"
-},
-{
-  "owner": "GitLab",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "GitLab",
-  "id": "956491294349"
-},
-{
-  "owner": "Sumo Logic",
-  "source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-  "description": "Sumo Logic Machine Data Analytics",
-  "id": "956882708938"
-},
-{
-  "owner": "Vanta",
-  "description": "Vanta",
-  "id": "956993596390"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
-  "description": "AWS RedShift in CloudTrail logs - Asia Pacific (Singapore) Region  - ap-southeast-1 ",
-  "id": "960118270566"
-},
-{
-  "owner": "Atlas DataLake",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "Atlas DataLake",
-  "id": "962727799805"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - us-west-1",
-  "id": "968246515281"
-},
-{
-  "owner": "CloudCraft",
-  "source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
-  "description": "CloudCraft",
-  "id": "968898580625"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "description": "API Gateway - ap-northeast-1",
-  "id": "969236854626"
-},
-{
-  "owner": "Orca Security",
-  "description": "Orca Security",
-  "id": "976280145156",
-  "source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "description": "AWS CloudTrail - Asia Pacific (Mumbai) - ap-south-1",
-  "id": "977081816279"
-},
-{
-  "owner": "Amazon Web Services",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "description": "Elastic Load Balancing (ELB) - Canada (Central) - ca-central-1",
-  "id": "985666609251"
-},
-{
-  "owner": "Amazon Web Services",
-  "description": "Cloudfront logs",
-  "id": "cloudfront"
-},
-{
-  "owner": "Densify",
-  "source": "https://www.densify.com/docs/Content/Data_Collection_for_Public_Cloud_Systems/AWS_Data_Collection_Prerequisites_for_an_IAM_Role.htm",
-  "id": [
-    "036437403198"
-  ]
-},
-{
-  "owner": "qualys",
-  "source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
-  "id": [
-    "080595016317",
-    "205767712438"
-  ]
-},
-{
-  "owner": "segmentio",
-  "source": [
-    "https://segment.com/docs/destinations/amazon-s3/",
-    "https://segment.com/docs/destinations/amazon-kinesis/"
-  ],
-  "id": [
-    "107630771604",
-    "595280932656"
-  ]
-},
-{
-  "owner": "aws",
-  "name": "elb_logs",
-  "source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
-  "id": [
-    "127311923021",
-    "033677994240",
-    "027434742980",
-    "797873946194",
-    "985666609251",
-    "054676820928",
-    "156460612806",
-    "652711504416",
-    "009996457667",
-    "582318560864",
-    "600734575887",
-    "383597477331",
-    "114774131450",
-    "783225319266",
-    "718504428378",
-    "507241528517",
-    "048591011584",
-    "638102146993",
-    "037604701340"
-  ]
-},
-{
-  "owner": "Slack EKM",
-  "source": "https://slackhq.com/dotcom/dotcom/wp-content/uploads/sites/6/2019/08/Slack-EKM-Implementation-Guide-1.pdf",
-  "id": [
-    "152659312504",
-    "429538831549"
-  ]
-},
-{
-  "owner": "Cloudability",
-  "source": "https://developers.cloudability.com/docs/vendor-credentials-end-point",
-  "id": [
-    "165736516723"
-  ]
-},
-{
-  "owner": "Xi Frame",
-  "id": [
-    "178591426237"
-  ]
-},
-{
-  "owner": "VManage",
-  "source": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/Network-Optimization-and-High-Availability/Network-Optimization-High-Availability-book/b_Network-Optimization-and-HA_chapter_00.html",
-  "id": [
-    "200235630647"
-  ]
-},
-{
-  "owner": "Rockset",
-  "id": [
-    "216690786812"
-  ]
-},
-{
-  "owner": "alertlogic",
-  "source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
-  "id": [
-    "239734009475",
-    "733251395267",
-    "857795874556"
-  ]
-},
-{
-  "owner": "CloudWisdom, metricly",
-  "id": [
-    "270852171095"
-  ]
-},
-{
-  "owner": "Turbot",
-  "source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
-  "id": [
-    "287590803701",
-    "255798382450"
-  ]
-},
-{
-  "owner": "Domo",
-  "source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
-  "id": [
-    "339405024189",
-    "010251424122",
-    "687132894031",
-    "622384692065"
-  ]
-},
-{
-  "owner": "API Gateway",
-  "type": "aws",
-  "source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
-  "id": [
-    "392220576650",
-    "718770453195",
-    "968246515281",
-    "109351309407",
-    "796887884028",
-    "631144002099",
-    "544388816663",
-    "061510835048",
-    "474240146802",
-    "394634713161",
-    "969236854626",
-    "020402002396",
-    "195145609632",
-    "798376113853",
-    "507069717855",
-    "174803364771",
-    "287228555773",
-    "855739686837"
-  ]
-},
-{
-  "owner": "CloudTrail",
-  "source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
-  "id": [
-    "475085895292",
-    "086441151436",
-    "388731089494",
-    "113285607260",
-    "819402241893",
-    "977081816279",
-    "765225791966",
-    "492519147666",
-    "903692715234",
-    "284668455005",
-    "216624486486",
-    "681348832753",
-    "035351147821",
-    "859597730677",
-    "282025262664",
-    "262312530599",
-    "814480443879"
-  ]
-},
-{
-  "owner": "Cloud Applicatoin Manager",
-  "source": "https://www.ctl.io/knowledge-base/cloud-application-manager/deploying-anywhere/using-your-aws-account/#create-an-iam-role-with-the-policy-chosen",
-  "id": [
-    "540339316802"
-  ]
-},
-{
-  "owner": "CloudHiro",
-  "source": "https://cloudhiro.com/AWS/AWSRegistrationGuide.php",
-  "id": [
-    "545334166883"
-  ]
-},
-{
-  "owner": "Armor Anywhere",
-  "source": [
-    "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
-    "https://docs.armor.com/pages/viewpage.action?pageId=20709565"
-  ],
-  "id": [
-    "679703615338",
-    "345186984524"
-  ]
-},
-{
-  "owner": "ylastic",
-  "source": "https://blog.ylastic.com/post/153943542476/iam-role-with-external-id-for-cross-account-access",
-  "id": [
-    "710193521658"
-  ]
-},
-{
-  "owner": "newrelic",
-  "source": [
-    "https://docs.newrelic.com/docs/integrations/amazon-integrations/get-started/connect-aws-services-infrastructure",
-    "https://docs.newrelic.com/docs/infrastructure/new-relic-infrastructure/data-instrumentation/amazon-aws-ec2-integration-infrastructure"
-  ],
-  "id": [
-    "754728514883",
-    "017663287629"
-  ]
-},
-{
-  "owner": "Genys",
-  "source": "https://help.mypurecloud.com/articles/create-iam-resources-to-invoke-an-aws-lambda-function/",
-  "id": [
-    "765628985471"
-  ]
-},
-{
-  "owner": "qubole",
-  "source": "https://docs.qubole.com/en/latest/user-guide/managing-accounts/aws/iam-roles/override-iam-roles.html",
-  "id": [
-    "805246085872"
-  ]
-},
-{
- "owner": "Rudderstack",
-  "source": "https://www.rudderstack.com/docs/destinations/streaming-destinations/amazon-s3/",
-  "id": [
-    "422074288268"
-  ]
-},
-{
-  "owner": "Cloudaware",
-  "id": [
-    "814021343637"
-  ]
-},
-{
-  "owner": "GitLab",
-  "id": [
-    "855262394183",
-    "956491294349"
-  ]
-},
-{
-  "owner": "site24x7",
-  "id": [
-    "949777495771"
-  ]
-}]
+[
+	{
+		"owner": "Grafana",
+		"description": "Grafana CloudWatch Integration",
+		"id": "008923505280",
+		"source": "https://grafana.com/docs/grafana-cloud/integrations/integrations/integration-cloudwatch/"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - EU (Paris) - eu-west-3",
+		"id": "009996457667"
+	},
+	{
+		"owner": "Domo",
+		"source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+		"description": "Domo",
+		"id": "010251424122"
+	},
+	{
+		"owner": "Nessus",
+		"source": "https://docs.tenable.com/tenableio/vulnerabilitymanagement/Content/Settings/Connectors_ConfigureAWS_KeylessAutoDiscovery.htm",
+		"description": "Nessus AWS Connector",
+		"id": "012615275169"
+	},
+	{
+		"owner": "New Relic",
+		"source": [
+			"https://docs.newrelic.com/docs/integrations/amazon-integrations/get-started/connect-aws-services-infrastructure",
+			"https://docs.newrelic.com/docs/infrastructure/new-relic-infrastructure/data-instrumentation/amazon-aws-ec2-integration-infrastructure"
+		],
+		"description": "New Relic is an American software analytics company based in San Francisco, California.",
+		"id": "017663287629"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ap-northeast-2",
+		"id": "020402002396"
+	},
+	{
+		"owner": "DuckbillGroup",
+		"source": "https://www.lastweekinaws.com/blog/are-aws-account-ids-sensitive-information/",
+		"description": "Corey Quinn's Account ID",
+		"id": "024196225137"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - US West (N. California) - us-west-1",
+		"id": "027434742980"
+	},
+	{
+		"owner": "Symantec",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Cloud Workload Protection",
+		"id": "033496790460"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - US East (Ohio) - us-east-2",
+		"id": "033677994240"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Middle East (Bahrain) - me-south-1",
+		"id": "034638983726"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Europe (Frankfurt) - eu-central-1",
+		"id": "035351147821"
+	},
+	{
+		"owner": "Densify",
+		"source": "https://www.densify.com/docs/Content/Data_Collection_for_Public_Cloud_Systems/AWS_Data_Collection_Prerequisites_for_an_IAM_Role.htm",
+		"description": "Densify",
+		"id": "036437403198"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - China (Ningxia) - cn-northwest-1",
+		"id": "037604701340"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Europe (Milan) Region  - eu-south-1 ",
+		"id": "041313461515"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - AWS GovCloud (US-West) - us-gov-west-1",
+		"id": "048591011584"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Middle East (Bahrain) Region  - me-south-1 ",
+		"id": "051362938876"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "053454850223"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - EU (Frankfurt) - eu-central-1",
+		"id": "054676820928"
+	},
+	{
+		"owner": "CloudSploit",
+		"source": "https://cloudsploit.freshdesk.com/support/solutions/articles/17000008755-connecting-an-aws-account-to-cloudsploit",
+		"description": "CloudSploit's open-source cloud security scans find misconfigurations and security risks, allowing for mitigation before a compromise.",
+		"id": "057012691312"
+	},
+	{
+		"owner": "CloudZero",
+		"source": "https://www.cloudzero.com/hubfs/CloudZero%20Configuration%20Guide%20-%20Automated.pdf",
+		"description": "CloudZero",
+		"id": "061190967865"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - eu-west-3",
+		"id": "061510835048"
+	},
+	{
+		"owner": "Altus",
+		"source": "https://blog.cloudera.com/cloudera-altus-cloud-services-youre-in-control-part-2/",
+		"description": "Altus",
+		"id": "062663104137"
+	},
+	{
+		"owner": "Sophos",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Sophos Server Protection",
+		"id": "062897671886"
+	},
+	{
+		"owner": "Epsagon",
+		"source": "https://docs.epsagon.com/docs/faq",
+		"description": "Epsagon",
+		"id": "066549572091"
+	},
+	{
+		"owner": "Funnel",
+		"source": "https://help.funnel.io/en/articles/1494351-amazon-s3-bucket-configuration",
+		"description": "Funnel",
+		"id": "071303700930"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "075028567923"
+	},
+	{
+		"owner": "Qualys",
+		"source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
+		"description": "Qualys Cloud View",
+		"id": "080595016317"
+	},
+	{
+		"owner": "Ermetic",
+		"source": "https://github.com/ermetic/utilities/blob/main/AWS/ControlTower/cloudformation/ermetic-controltower.yaml",
+		"description": "Ermetic",
+		"id": "081802104111"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - US East (N. Virginia) - us-east-1",
+		"id": "086441151436"
+	},
+	{
+		"owner": "Nirmata",
+		"source": "https://nirmata-documentation.readthedocs.io/en/latest/CloudProviders.html",
+		"description": "Nirmata",
+		"id": "094919933512"
+	},
+	{
+		"owner": "SegmentIO",
+		"source": [
+			"https://segment.com/docs/destinations/amazon-s3/",
+			"https://segment.com/docs/destinations/amazon-kinesis/"
+		],
+		"description": "SegmentIO",
+		"id": "107630771604"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - us-west-2",
+		"id": "109351309407"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - US West (Oregon) - us-west-2",
+		"id": "113285607260"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Asia Pacific (Singapore) - ap-southeast-1",
+		"id": "114774131450"
+	},
+	{
+		"owner": "Presidio",
+		"source": "customer IAM policy",
+		"description": "Presidio",
+		"id": "118652503430"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Hong Kong) - ap-east-1",
+		"id": "119688915426"
+	},
+	{
+		"owner": "Palo Alto Networks",
+		"source": "https://github.com/terraform-providers/terraform-provider-aws/issues/6674",
+		"description": "Palo Alto Networks",
+		"id": "122442690527"
+	},
+	{
+		"owner": "Teraproc",
+		"source": "http://www.teraproc.com/awskey/",
+		"description": "Teraproc Cloud Manager is a complete solution of managing a heterogeneous cloud computing environment.",
+		"id": "122931797421"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - US East (N. Virginia) - us-east-1",
+		"id": "127311923021"
+	},
+	{
+		"owner": "SignalFx",
+		"source": "https://signalfx-product-docs.readthedocs-hosted.com/en/latest/getting-started/send-data.html",
+		"description": "SignalFx is the only real-time cloud monitoring platform for infrastructure, microservices, and applications.",
+		"id": "134183635603"
+	},
+	{
+		"owner": "Orca Security",
+		"description": "Orca Security",
+		"id": "135916806842",
+		"source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+	},
+	{
+		"owner": "TrendMicro",
+		"source": "https://help.deepsecurity.trendmicro.com/Add-Computers/add-aws.html",
+		"description": "TrendMicro",
+		"id": "147995105371"
+	},
+	{
+		"owner": "Barracuda Networks",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-barracuda-cloud-security-guardian",
+		"description": "Barracuda Cloud Security Sentry",
+		"id": "151784055945"
+	},
+	{
+		"owner": "Slack EKM",
+		"source": "https://slackhq.com/dotcom/dotcom/wp-content/uploads/sites/6/2019/08/Slack-EKM-Implementation-Guide-3.pdf",
+		"description": "Slack Enterprise Key Management Account",
+		"id": "152659312504"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - EU (Ireland) - eu-west-1",
+		"id": "156460612806"
+	},
+	{
+		"owner": "Cloudability",
+		"source": "https://github.com/edrans/tf-aws-iam-cloudability",
+		"description": "Cloudability is a cloud cost management platform that improves visibility, optimization, governance and more across cloud environments.",
+		"id": "165736516723"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ap-east-1",
+		"id": "174803364771"
+	},
+	{
+		"owner": "Xi Frame",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Xi Frame",
+		"id": "178591426237"
+	},
+	{
+		"owner": "Palo Alto Networks",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Palo Alto Networks Cloud Enterprise (formerly Redlock)",
+		"id": "188619942792"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - China (Beijing) - cn-north-1",
+		"id": "193415116832"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "193672423079"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ap-southeast-1",
+		"id": "195145609632"
+	},
+	{
+		"owner": "Wiz",
+		"description": "Wiz",
+		"id": "197171649850"
+	},
+	{
+		"owner": "Azure Sentinel",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Azure Sentinel",
+		"id": "197857026523"
+	},
+	{
+		"owner": "Snyk",
+		"source": "https://support.snyk.io/hc/en-us/articles/360004002418-AWS-Lambda-integration",
+		"description": "Snyk",
+		"id": "198361731867"
+	},
+	{
+		"owner": "VManage",
+		"source": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/Network-Optimization-and-High-Availability/Network-Optimization-High-Availability-book/b_Network-Optimization-and-HA_chapter_00.html",
+		"description": "VManage",
+		"id": "200235630647"
+	},
+	{
+		"owner": "nOps",
+		"source": "https://help.nops.io/manual_setup",
+		"description": "nOps",
+		"id": "202279780353"
+	},
+	{
+		"owner": "Qualys",
+		"source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
+		"description": "Qualys Cloud View",
+		"id": "205767712438"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "210876761215"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Tokyo) - ap-northeast-1",
+		"id": "216624486486"
+	},
+	{
+		"owner": "Rockset",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Rockset",
+		"id": "216690786812"
+	},
+	{
+		"owner": "Stitch",
+		"source": "https://www.stitchdata.com/docs/destinations/amazon-s3/connecting-an-amazon-s3-data-warehouse-to-stitch",
+		"description": "Stitch",
+		"id": "218546966473"
+	},
+	{
+		"owner": "Cloudinary",
+		"source": "https://support.cloudinary.com/hc/en-us/articles/203276521-How-do-I-allow-Cloudinary-to-read-from-my-private-S3-bucket-",
+		"description": "Cloudinary",
+		"id": "232482882421"
+	},
+	{
+		"owner": "AlertLogic",
+		"source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+		"description": "AlertLogic",
+		"id": "239734009475"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Europe (Ireland) Region  - eu-west-1 ",
+		"id": "246478207311"
+	},
+	{
+		"owner": "Turbot",
+		"source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
+		"description": "Turbot",
+		"id": "255798382450"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "262260360010"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Europe (Paris) - eu-west-3",
+		"id": "262312530599"
+	},
+	{
+		"owner": "SignifAI",
+		"source": "https://docs.signifai.io/docs/amazon-web-services",
+		"description": "Predict and prevent downtime with artificial intelligence and machine learning for Site Reliability Engineers.",
+		"id": "265975144233"
+	},
+	{
+		"owner": "CloudWisdom",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "CloudWisdom, metricly",
+		"id": "270852171095"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Europe (London) - eu-west-2",
+		"id": "282025262664"
+	},
+	{
+		"owner": "LogicMonitor",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "LogicMonitor",
+		"id": "282028653949"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Sydney) - ap-southeast-2",
+		"id": "284668455005"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - sa-east-1",
+		"id": "287228555773"
+	},
+	{
+		"owner": "Turbot",
+		"source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
+		"description": "Turbot",
+		"id": "287590803701"
+	},
+	{
+		"owner": "McAfee",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "McAfee MVISION Cloud Native Application Protection Platform (CNAPP)",
+		"id": "297986523463"
+	},
+	{
+		"owner": "EDB Postgres",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "EDB Postgres",
+		"id": "305753120797"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "307160386991"
+	},
+	{
+		"owner": "McAfee",
+		"source": "https://docs.mcafee.com/bundle/prod-name-n.n.x-guide-type/page/GUID-9B6E696A-78DA-4F41-A0FC-39699DD39639.html",
+		"description": "MVision ePO",
+		"id": "307653271100"
+	},
+	{
+		"owner": "Google",
+		"source": "https://support.stackdriver.com/customer/portal/articles/1491790-setting-up-stackdriver-for-your-aws-account",
+		"description": "Stackdriver aggregates metrics, logs, and events from infrastructure, giving developers and operators a rich set of observable signals that speed root-cause analysis and reduce mean time to resolution (MTTR).",
+		"id": "314658760392"
+	},
+	{
+		"owner": "Guardicore",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Guardicore Centra and Infection Monkey",
+		"id": "324264561773"
+	},
+	{
+		"owner": "Globus",
+		"source": "https://docs.globus.org/how-to/amazon-aws-s3-endpoints/",
+		"description": "Research data management simplified.",
+		"id": "328067584297"
+	},
+	{
+		"owner": "Orbitera",
+		"source": "https://support.orbitera.com/support/solutions/articles/147040-add-new-aws-accounts",
+		"description": "The Cloud Commerce Platform",
+		"id": "328676173091"
+	},
+	{
+		"owner": "Rapid7",
+		"source": "https://insightvm.help.rapid7.com/docs/aws-connect-to-cloud-configuration-assessment",
+		"description": "Rapid7 InsightVM Cloud Configuration",
+		"id": "336818582268"
+	},
+	{
+		"owner": "Domo",
+		"source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+		"description": "Domo",
+		"id": "339405024189"
+	},
+	{
+		"owner": "Anodot",
+		"source": "https://support.anodot.com/hc/en-us/articles/360034553113-Enable-Reading-from-the-Kinesis-Stream",
+		"description": "Anodot",
+		"id": "340481513670"
+	},
+	{
+		"owner": "Armor Anywhere",
+		"source": [
+			"https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+			"https://docs.armor.com/pages/viewpage.action?pageId=20709565"
+		],
+		"description": "Armor Anywhere",
+		"id": "345186984524"
+	},
+	{
+		"owner": "CloudCheckr",
+		"source": "https://support.cloudcheckr.com/cloudcheckr-api-userguide/cloudcheckr-admin-api-reference-guide/",
+		"description": "CloudCheckr's cloud management platform provides cost management, security, reporting and analytics to help users optimize their AWS and Azure environments.",
+		"id": "352813966189"
+	},
+	{
+		"owner": "Workato",
+		"source": "https://docs.workato.com/connectors/s3.html",
+		"description": "Workato",
+		"id": "353360065216"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "361669875840"
+	},
+	{
+		"owner": "Forcepoint",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-forcepoint-casb",
+		"description": "Forcepoint CASB, DLP, NGFW",
+		"id": "365761988620"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - US East (N. Virginia) Region  - us-east-1 ",
+		"id": "368064434614"
+	},
+	{
+		"owner": "Fugue",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Fugue",
+		"id": "370134896156"
+	},
+	{
+		"owner": "Weave Cloud",
+		"source": "https://eksctl.io/",
+		"description": "Weave Cloud",
+		"id": "376248598259"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Asia Pacific (Osaka-Local) - ap-northeast-3",
+		"id": "383597477331"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-getting-started.html#step-2",
+		"description": "Billing",
+		"id": "386209384616"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - US West (N. California) - us-west-1",
+		"id": "388731089494"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "391106570357"
+	},
+	{
+		"owner": "Cloudflare",
+		"source": "https://developers.cloudflare.com/logs/logpush/aws-s3",
+		"description": "Cloudflare",
+		"id": "391854517948"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - us-east-1",
+		"id": "392220576650"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - South America (São Paulo) Region  - sa-east-1 ",
+		"id": "392442076723,"
+	},
+	{
+		"owner": "Summit Route",
+		"source": "https://summitroute.com/aws_security_assessments/",
+		"description": "Summit Route",
+		"id": "393727464233"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - eu-north-1",
+		"id": "394634713161"
+	},
+	{
+		"owner": "Zencoder",
+		"source": "https://support.brightcove.com/using-zencoder-s3",
+		"description": "The Performance Leader in File Cloud Encoding",
+		"id": "395540211253"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Osaka) Region  - ap-northeast-3 ",
+		"id": "398671365691"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "404641285394"
+	},
+	{
+		"owner": "Axonius.com",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Axonius.com",
+		"id": "405773942477"
+	},
+	{
+		"owner": "Logz.io",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Logz.io",
+		"id": "406095609952"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Mumbai) Region  - ap-south-1 ",
+		"id": "408097707231"
+	},
+	{
+		"owner": "Databricks",
+		"source": "https://docs.databricks.com/administration-guide/account-settings/aws-accounts.html",
+		"description": "Databricks",
+		"id": "414351767826"
+	},
+	{
+		"owner": "rev.com",
+		"source": "https://www.rev.com/api/s3bucketpolicy",
+		"description": "rev.com",
+		"id": "414502572119"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Africa (Cape Town) Region  - af-south-1 ",
+		"id": "420376844563"
+	},
+	{
+		"owner": "Tenable",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Tenable.io",
+		"id": "422820575223"
+	},
+	{
+		"owner": "Upsolver",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Upsolver",
+		"id": "428641199958"
+	},
+	{
+		"owner": "QRadar",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "QRadar",
+		"id": "429269239926"
+	},
+	{
+		"owner": "Slack S3 Account",
+		"source": "https://slackhq.com/dotcom/dotcom/wp-content/uploads/sites/6/2019/08/Slack-EKM-Implementation-Guide-3.pdf",
+		"description": "Slack’s AWS account number which serves files from S3",
+		"id": "429538831549"
+	},
+	{
+		"owner": "Microsoft",
+		"source": "https://docs.microsoft.com/en-us/azure/cost-management/aws-integration-manage",
+		"description": "Azure Billing Management",
+		"id": "432263259397"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Europe (Frankfurt) Region  - eu-central-1 ",
+		"id": "434091160558"
+	},
+	{
+		"owner": "Lacework",
+		"description": "Lacework",
+		"id": "434813966438"
+	},
+	{
+		"owner": "Turbot",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Turbot",
+		"id": "453761072151"
+	},
+	{
+		"owner": "Cloudhealth",
+		"source": "https://github.com/mozilla/security/blob/master/operations/cloudformation-templates/cloudhealth_iam_role.json",
+		"description": "Cloudhealth",
+		"id": "454464851268"
+	},
+	{
+		"owner": "Orca Security",
+		"description": "Orca Security",
+		"id": "463932680998",
+		"source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+	},
+	{
+		"owner": "Datadog",
+		"source": "https://docs.datadoghq.com/integrations/amazon_web_services/",
+		"description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
+		"id": "464622532012"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - US West (Oregon) Region  - us-west-2 ",
+		"id": "473191095985"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - eu-central-1",
+		"id": "474240146802"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - US East (Ohio) - us-east-2",
+		"id": "475085895292"
+	},
+	{
+		"owner": "Skeddly",
+		"source": "http://thecloudmarket.com/owner/478299826944",
+		"description": "Skeddly schedules and automates your cloud resources on Amazon Web Services, Microsoft Azure, and Google Cloud Platform.",
+		"id": "478299826944"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Sydney) Region  - ap-southeast-2 ",
+		"id": "485979073181"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Seoul) - ap-northeast-2",
+		"id": "492519147666"
+	},
+	{
+		"owner": "Palo Alto Networks",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Palo Alto Networks Prisma Cloud Compute (formerly Twistlock)",
+		"id": "496947949261"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ap-south-1",
+		"id": "507069717855"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - South America (São Paulo) - sa-east-1",
+		"id": "507241528517"
+	},
+	{
+		"owner": "Rackspace",
+		"source": "https://manage.rackspace.com/aws/docs/product-guide/patching/ec2/meltdown.html",
+		"description": "Rackspace Inc. is an American managed cloud computing company based in Windcrest, Texas, a suburb of San Antonio.",
+		"id": "507897595701"
+	},
+	{
+		"owner": "Dynatrace",
+		"source": "https://help.dynatrace.com/monitor-cloud-virtualization-and-hosts/cloud/how-do-i-start-amazon-web-services-monitoring/",
+		"description": "Dynatrace is a software intelligence company providing application performance management, artificial intelligence for operations, cloud infrastructure monitoring, and digital experience management, with products for the information technology departments and digital business owners of medium and large businesses.",
+		"id": "509560245411"
+	},
+	{
+		"owner": "ChaosSearch",
+		"source": "https://docs.chaossearch.io/docs/prerequisites",
+		"description": "ChaosSearch",
+		"id": "515570774723"
+	},
+	{
+		"owner": "CrowdStrike",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-crowdstrike-falcon",
+		"description": "CrowdStrike Falcon",
+		"id": "517716713836"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Africa (Cape Town) - af-south-1",
+		"id": "525921808201"
+	},
+	{
+		"owner": "CenturyLinkCloud",
+		"source": "https://www.ctl.io/knowledge-base/cloud-application-manager/deploying-anywhere/using-your-aws-account/",
+		"description": "Centurylink Cloud offers secure enterprise cloud services ideal for business apps, IaaS, PaaS, SaaS, DBaaS and cloud management in a single platform.",
+		"id": "540339316802"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - eu-west-2",
+		"id": "544388816663"
+	},
+	{
+		"owner": "CloudHiro",
+		"source": "https://cloudhiro.com/AWS/AWSRegistrationGuide.php",
+		"description": "CloudHiro",
+		"id": "545334166883"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Europe (Stockholm) Region  - eu-north-1 ",
+		"id": "553461782468"
+	},
+	{
+		"owner": "Orca Security",
+		"description": "Orca Security",
+		"id": "553950354547",
+		"source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+	},
+	{
+		"owner": "Cloud Ranger",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Cloud Ranger",
+		"id": "558211695259"
+	},
+	{
+		"owner": "Cisco Umbrella",
+		"source": "https://docs.umbrella.com/umbrella-user-guide/docs/enable-logging-to-your-own-s3-bucket",
+		"description": "Cisco Umbrella",
+		"id": "568526795995"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Asia Pacific (Tokyo) - ap-northeast-1",
+		"id": "582318560864"
+	},
+	{
+		"owner": "SegmentIO",
+		"source": [
+			"https://segment.com/docs/destinations/amazon-s3/",
+			"https://segment.com/docs/destinations/amazon-kinesis/"
+		],
+		"description": "SegmentIO",
+		"id": "595280932656"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Asia Pacific (Seoul) - ap-northeast-2",
+		"id": "600734575887"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - AWS GovCloud (US-West) - us-gov-west-1",
+		"id": "608710470296"
+	},
+	{
+		"owner": "JupiterOne",
+		"source": "https://github.com/JupiterOne/jupiterone-aws-cloudformation/commit/0adf947dc98404cef1eee1f570f39c05c87d3f41",
+		"description": "JupiterOne",
+		"id": "612791702201"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Tokyo) Region  - ap-northeast-1 ",
+		"id": "615915377779"
+	},
+	{
+		"owner": "Freshservice",
+		"source": "https://support.freshservice.com/support/solutions/articles/207515-creating-a-role-arn-for-integrating-amazon-web-services-aws-in-freshservice",
+		"description": "Cloud based ITSM software for your service desk",
+		"id": "618708667954"
+	},
+	{
+		"owner": "Domo",
+		"source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+		"description": "Domo",
+		"id": "622384692065"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Jakarta) Region  - ap-southeast-3 ",
+		"id": "623197973179"
+	},
+	{
+		"owner": "Instaclustr",
+		"source": "https://support.instaclustr.com/hc/en-us/articles/226565607-Setting-Up-a-Datacenter-with-EBS-Encryption",
+		"description": "Managed and supported open source solutions for Apache Cassandra, Apache Kafka, Apache Spark, Elasticsearch, Apache Zeppelin, Kibana etc",
+		"id": "624537489435"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - eu-west-1",
+		"id": "631144002099"
+	},
+	{
+		"owner": "Check Point",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-checkpoint-cloudguard-posture-management",
+		"description": "Check Point CloudGuard Posture Management",
+		"id": "634729597623"
+	},
+	{
+		"owner": "RedLine13",
+		"source": "https://www.redline13.com/blog/aws-setup/",
+		"description": "Open Architecture for Building and Running Load Tests",
+		"id": "635144173025"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - China (Beijing) - cn-north-1",
+		"id": "638102146993"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Hong Kong) Region  - ap-east-1 ",
+		"id": "651179539253"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - EU (London) - eu-west-2",
+		"id": "652711504416"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "660998842044"
+	},
+	{
+		"owner": "Convox",
+		"source": "https://convox.com/docs/aws-integration",
+		"description": "Convox",
+		"id": "665986001363"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Europe (Milan) - eu-south-1",
+		"id": "669305197877"
+	},
+	{
+		"owner": "Zesty",
+		"source": "https://github.com/zesty-co/AWS-Integration/blob/main/Zesty-Minimal-ReadOnly-IAM-Role.json",
+		"description": "Zesty",
+		"id": "672188301118"
+	},
+	{
+		"owner": "ThingSpace",
+		"source": "https://thingspace.verizon.com/resources/documentation/cloudconnector/Getting_Started/Streaming_to_AWS/",
+		"description": "ThingSpace",
+		"id": "675479154635"
+	},
+	{
+		"owner": "Armor Anywhere",
+		"source": [
+			"https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-armor-anywhere",
+			"https://docs.armor.com/pages/viewpage.action?pageId=20709565"
+		],
+		"description": "Armor Anywhere",
+		"id": "679703615338"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - China (Ningxia) - cn-northwest-1",
+		"id": "681348832753"
+	},
+	{
+		"owner": "Domo",
+		"source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+		"description": "Domo",
+		"id": "687132894031"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Europe (Paris) Region  - eu-west-3 ",
+		"id": "694668203235"
+	},
+	{
+		"owner": "NetApp",
+		"source": "https://docs.netapp.com/us-en/cloud_volumes/aws/media/cvs_aws_account_setup.pdf",
+		"description": "CloudManager for CloudVolumes",
+		"id": "695990169366"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - US West (N. California) Region  - us-west-1 ",
+		"id": "703715109447"
+	},
+	{
+		"owner": "ylastic",
+		"source": "https://blog.ylastic.com/post/153943542476/iam-role-with-external-id-for-cross-account-access",
+		"description": "ylastic",
+		"id": "710193521658"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Seoul) Region  - ap-northeast-2 ",
+		"id": "713597048934"
+	},
+	{
+		"owner": "CloudConformity",
+		"source": "https://github.com/cloudconformity/documentation-api/blob/master/Accounts.md#update-account",
+		"description": "CloudConformity",
+		"id": "717210094962"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Asia Pacific (Mumbai) - ap-south-1",
+		"id": "718504428378"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - us-east-2",
+		"id": "718770453195"
+	},
+	{
+		"owner": "Kochava",
+		"source": "https://support.kochava.com/reference-information/traffic-import-tool",
+		"description": "Kochava is the industry leader for mobile app attribution and mobile app analytics. ",
+		"id": "719465667078"
+	},
+	{
+		"owner": "TheGlobalSolutions.net",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "TheGlobalSolutions.net",
+		"id": "726941830086"
+	},
+	{
+		"owner": "Orca Security",
+		"description": "Orca Security",
+		"id": "727815099310",
+		"source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+	},
+	{
+		"owner": "AlertLogic",
+		"source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+		"description": "AlertLogic",
+		"id": "733251395267"
+	},
+	{
+		"owner": "CyberArk",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-cyberark-privileged-threat-analytics",
+		"description": "Privileged Threat Analytics",
+		"id": "749430749651"
+	},
+	{
+		"owner": "Brightcove",
+		"source": "https://support.brightcove.com/using-dynamic-ingest-s3",
+		"description": "Brightcove, Inc. is a Boston, Massachusetts–based software company that produces an online video platform.",
+		"id": "749779118921"
+	},
+	{
+		"owner": "ParkMyCloud",
+		"source": "https://parkmycloud.atlassian.net/wiki/spaces/PMCUG/pages/43876427/Create+an+IAM+Role+in+AWS+for+ParkMyCloud",
+		"description": "ParkMyCloud, a Turbonomic company, provides an easy-to-use platform that helps enterprises automatically identify and eliminate wasted cloud spend.",
+		"id": "753542375798"
+	},
+	{
+		"owner": "Symantec",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Cloud Workload Protection",
+		"id": "754237914691"
+	},
+	{
+		"owner": "New Relic",
+		"source": [
+			"https://docs.newrelic.com/docs/integrations/amazon-integrations/get-started/connect-aws-services-infrastructure",
+			"https://docs.newrelic.com/docs/infrastructure/new-relic-infrastructure/data-instrumentation/amazon-aws-ec2-integration-infrastructure"
+		],
+		"description": "New Relic is an American software analytics company based in San Francisco, California.",
+		"id": "754728514883"
+	},
+	{
+		"owner": "Cloudbreak",
+		"source": "https://github.com/hortonworks/cloudbreak",
+		"description": "A tool for provisioning and managing Apache Hadoop clusters in the cloud.",
+		"id": "755047402263"
+	},
+	{
+		"owner": "Check Point",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html#integration-checkpoint-cloudguard-iaas",
+		"description": "Check Point CloudGuard IaaS",
+		"id": "758245563457"
+	},
+	{
+		"owner": "cloudsqueeze",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "cloudsqueeze",
+		"id": "759994998399"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "760740231472"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "762762565011"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Canada (Central) Region  - ca-central-1 ",
+		"id": "764870610256"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Osaka) - ap-northeast-3",
+		"id": "765225791966"
+	},
+	{
+		"owner": "Genys",
+		"source": "https://help.mypurecloud.com/articles/create-iam-resources-to-invoke-an-aws-lambda-function/",
+		"description": "Genys",
+		"id": "765628985471"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Asia Pacific (Sydney) - ap-southeast-2",
+		"id": "783225319266"
+	},
+	{
+		"owner": "Orca Security",
+		"description": "Orca Security",
+		"id": "784971140435",
+		"source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - US East (Ohio) Region  - us-east-2 ",
+		"id": "790247189693"
+	},
+	{
+		"owner": "MediaMath",
+		"source": "https://apidocs.mediamath.com/reporting/log-level-data-service/overview#data-security-and-authorization",
+		"description": "MediaMath",
+		"id": "794878508631"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ca-central-1",
+		"id": "796887884028"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - US West (Oregon) - us-west-2",
+		"id": "797873946194"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ap-southeast-2",
+		"id": "798376113853"
+	},
+	{
+		"owner": "Lucidchart",
+		"source": "https://lucidchart.zendesk.com/hc/en-us/articles/208018563-Create-an-IAM-User-or-a-Cross-Account-Role-in-AWS-for-Lucidchart",
+		"description": "Lucidchart",
+		"id": "799803075172"
+	},
+	{
+		"owner": "Serverless",
+		"source": "https://www.serverless.com/framework/docs/guides/monitoring/notifications",
+		"description": "Serverless framework",
+		"id": "802587217904"
+	},
+	{
+		"owner": "Axonius.com",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Axonius.com",
+		"id": "802876684602"
+	},
+	{
+		"owner": "qubole",
+		"source": "https://docs.qubole.com/en/latest/user-guide/managing-accounts/aws/iam-roles/override-iam-roles.html",
+		"description": "qubole",
+		"id": "805246085872"
+	},
+	{
+		"owner": "Qualys",
+		"source": "https://qualys-secure.force.com/discussions/s/question/0D52L00004TnxTqSAJ/aws-ec2-connector-creation-automation",
+		"description": "Qualys AWS EC2 Connector",
+		"id": "805950163170"
+	},
+	{
+		"owner": "Cloudaware",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Cloudaware",
+		"id": "814021343637"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - South America (São Paulo) - sa-east-1",
+		"id": "814480443879"
+	},
+	{
+		"owner": "Axonius.com",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Axonius.com",
+		"id": "817364327683"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Canada (Central) - ca-central-1",
+		"id": "819402241893"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Europe (Stockholm) - eu-north-1",
+		"id": "829690693026"
+	},
+	{
+		"owner": "Fivetran",
+		"source": "https://fivetran.com/docs/logs/cloudwatch/setup-guide",
+		"description": "Fivetran",
+		"id": "834469178297"
+	},
+	{
+		"owner": "Data Theorem",
+		"description": "Data Theorem",
+		"id": "835257243705"
+	},
+	{
+		"owner": "Citrix",
+		"source": "https://docs.citrix.com/en-us/citrix-application-delivery-management-service/hybrid-multi-cloud-deployments/autoscale-for-aws/autoscale-for-aws-configuration.html",
+		"description": "ADC Application Deployment, ADM Delivery Management",
+		"id": "835822366011"
+	},
+	{
+		"owner": "Onelogin",
+		"description": "Onelogin",
+		"id": "842984801698"
+	},
+	{
+		"owner": "FoxPass",
+		"source": "https://docs.foxpass.com/docs/access-control-integration-with-amazon-ec2",
+		"description": "FoxPass",
+		"id": "843529240033"
+	},
+	{
+		"owner": "FortiCWP",
+		"source": "https://docs.fortinet.com/document/forticwp/4.4.0/online-help/828941/amazon-web-services",
+		"description": "FortiCWP",
+		"id": "854209929931"
+	},
+	{
+		"owner": "GitLab",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "GitLab",
+		"id": "855262394183"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - me-south-1",
+		"id": "855739686837"
+	},
+	{
+		"owner": "AlertLogic",
+		"source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+		"description": "AlertLogic",
+		"id": "857795874556"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://forums.aws.amazon.com/thread.jspa?messageID=629256",
+		"description": "[Deprecated] AWS Log delivery Service",
+		"id": "858827067514"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Europe (Ireland) - eu-west-1",
+		"id": "859597730677"
+	},
+	{
+		"owner": "Deep Security",
+		"source": "https://esupport.trendmicro.com/media/13166096/Generate-AWS-Role.pdf",
+		"description": "Trend Micro's Deep Security is an intelligent data protection solution that services all environments and was built purposefully to support VMware deployments.",
+		"id": "862820443276"
+	},
+	{
+		"owner": "CloudPhysics",
+		"source": "https://www.cloudphysics.com/connectaws/",
+		"description": "CloudPhysics",
+		"id": "863002038009"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "865932855811"
+	},
+	{
+		"owner": "Emnify",
+		"source": "https://www.emnify.com/datastreamer-integration-into-aws",
+		"description": "Emnify",
+		"id": "884047677700"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Europe (London) Region  - eu-west-2 ",
+		"id": "885798887673"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - AWS GovCloud (US-East) - us-gov-east-1",
+		"id": "886388586500"
+	},
+	{
+		"owner": "Bridgecrew",
+		"description": "Bridgecrew",
+		"id": "890234264427"
+	},
+	{
+		"owner": "Threat Stack",
+		"source": "https://threatstack.zendesk.com/hc/en-us/articles/206006626-AWS-EC2-Integration",
+		"description": "Threat Stack",
+		"id": "896126563706"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "902366379725"
+	},
+	{
+		"owner": "wpengine",
+		"source": "https://wpengine.com/support/configuring-largefs-store-transfer-unlimited-data/",
+		"description": "wpengine",
+		"id": "902500896138"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Singapore) - ap-southeast-1",
+		"id": "903692715234"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "907379612154"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "Redshift logs",
+		"id": "915173422425"
+	},
+	{
+		"owner": "Spotinst",
+		"source": "https://help.spotinst.com/hc/en-us/articles/360000343509-Functions-Permissions-Model-IAM-Role-",
+		"description": "Spotinst",
+		"id": "922761411349"
+	},
+	{
+		"owner": "Sumo Logic",
+		"source": "https://help.sumologic.com/03Send-Data/sources/02sources-for-Hosted-Collectors/Amazon-Web-Services/Grant-Access-to-an-AWS-Product#IAM_Role",
+		"description": "Account belonging to Sumo Logic used for ingestion of logs from customers' AWS accounts",
+		"id": "926226587429"
+	},
+	{
+		"owner": "Permiso",
+		"description": "Permiso",
+		"id": "940313271035"
+	},
+	{
+		"owner": "Fugue",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Fugue",
+		"id": "944830124550"
+	},
+	{
+		"owner": "IBM",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "IBM QRadar SIEM",
+		"id": "949680696695"
+	},
+	{
+		"owner": "site24x7",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "site24x7",
+		"id": "949777495771"
+	},
+	{
+		"owner": "Auth0",
+		"source": "https://auth0.com/docs/integrations/aws/sso",
+		"description": "Auth0",
+		"id": "951887872838"
+	},
+	{
+		"owner": "GitLab",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "GitLab",
+		"id": "956491294349"
+	},
+	{
+		"owner": "Sumo Logic",
+		"source": "https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+		"description": "Sumo Logic Machine Data Analytics",
+		"id": "956882708938"
+	},
+	{
+		"owner": "Vanta",
+		"description": "Vanta",
+		"id": "956993596390"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/redshift/latest/mgmt/db-auditing.html",
+		"description": "AWS RedShift in CloudTrail logs - Asia Pacific (Singapore) Region  - ap-southeast-1 ",
+		"id": "960118270566"
+	},
+	{
+		"owner": "Atlas DataLake",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "Atlas DataLake",
+		"id": "962727799805"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - us-west-1",
+		"id": "968246515281"
+	},
+	{
+		"owner": "CloudCraft",
+		"source": "https://github.com/duo-labs/cloudmapper/blob/main/vendor_accounts.yaml",
+		"description": "CloudCraft",
+		"id": "968898580625"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"description": "API Gateway - ap-northeast-1",
+		"id": "969236854626"
+	},
+	{
+		"owner": "Orca Security",
+		"description": "Orca Security",
+		"id": "976280145156",
+		"source": "https://orcasecurity.force.com/s/article/Orca-Scanner-Accounts-for-AWS-Trusted-Entities?topic=Onboarding&subtopic=AWS&article=Orca-Scanner-Accounts-for-AWS-Trusted-Entities"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"description": "AWS CloudTrail - Asia Pacific (Mumbai) - ap-south-1",
+		"id": "977081816279"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"description": "Elastic Load Balancing (ELB) - Canada (Central) - ca-central-1",
+		"id": "985666609251"
+	},
+	{
+		"owner": "Amazon Web Services",
+		"description": "Cloudfront logs",
+		"id": "cloudfront"
+	},
+	{
+		"owner": "Densify",
+		"source": "https://www.densify.com/docs/Content/Data_Collection_for_Public_Cloud_Systems/AWS_Data_Collection_Prerequisites_for_an_IAM_Role.htm",
+		"id": [
+			"036437403198"
+		]
+	},
+	{
+		"owner": "qualys",
+		"source": "https://qualysguard.qualys.com/qwebhelp/fo_portal/scans/ec2_connector.htm",
+		"id": [
+			"080595016317",
+			"205767712438"
+		]
+	},
+	{
+		"owner": "segmentio",
+		"source": [
+			"https://segment.com/docs/destinations/amazon-s3/",
+			"https://segment.com/docs/destinations/amazon-kinesis/"
+		],
+		"id": [
+			"107630771604",
+			"595280932656"
+		]
+	},
+	{
+		"owner": "aws",
+		"name": "elb_logs",
+		"source": "https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/enable-access-logs.html",
+		"id": [
+			"127311923021",
+			"033677994240",
+			"027434742980",
+			"797873946194",
+			"985666609251",
+			"054676820928",
+			"156460612806",
+			"652711504416",
+			"009996457667",
+			"582318560864",
+			"600734575887",
+			"383597477331",
+			"114774131450",
+			"783225319266",
+			"718504428378",
+			"507241528517",
+			"048591011584",
+			"638102146993",
+			"037604701340"
+		]
+	},
+	{
+		"owner": "Slack EKM",
+		"source": "https://slackhq.com/dotcom/dotcom/wp-content/uploads/sites/6/2019/08/Slack-EKM-Implementation-Guide-1.pdf",
+		"id": [
+			"152659312504",
+			"429538831549"
+		]
+	},
+	{
+		"owner": "Cloudability",
+		"source": "https://developers.cloudability.com/docs/vendor-credentials-end-point",
+		"id": [
+			"165736516723"
+		]
+	},
+	{
+		"owner": "Xi Frame",
+		"id": [
+			"178591426237"
+		]
+	},
+	{
+		"owner": "VManage",
+		"source": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/configuration/Network-Optimization-and-High-Availability/Network-Optimization-High-Availability-book/b_Network-Optimization-and-HA_chapter_00.html",
+		"id": [
+			"200235630647"
+		]
+	},
+	{
+		"owner": "Rockset",
+		"id": [
+			"216690786812"
+		]
+	},
+	{
+		"owner": "alertlogic",
+		"source": "https://docs.alertlogic.com/prepare/iam-role-creation.htm#top",
+		"id": [
+			"239734009475",
+			"733251395267",
+			"857795874556"
+		]
+	},
+	{
+		"owner": "CloudWisdom, metricly",
+		"id": [
+			"270852171095"
+		]
+	},
+	{
+		"owner": "Turbot",
+		"source": "https://turbot.com/v5/docs/integrations/aws/import-aws-account",
+		"id": [
+			"287590803701",
+			"255798382450"
+		]
+	},
+	{
+		"owner": "Domo",
+		"source": "https://knowledge.domo.com/Connect/Connecting_to_Data_with_Connectors/Configuring_Each_Connector/Connectors_for_File_Retrieval/Amazon_S3_AssumeRole_Connector",
+		"id": [
+			"339405024189",
+			"010251424122",
+			"687132894031",
+			"622384692065"
+		]
+	},
+	{
+		"owner": "API Gateway",
+		"type": "aws",
+		"source": "https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-api-with-vpclink-accounts.html",
+		"id": [
+			"392220576650",
+			"718770453195",
+			"968246515281",
+			"109351309407",
+			"796887884028",
+			"631144002099",
+			"544388816663",
+			"061510835048",
+			"474240146802",
+			"394634713161",
+			"969236854626",
+			"020402002396",
+			"195145609632",
+			"798376113853",
+			"507069717855",
+			"174803364771",
+			"287228555773",
+			"855739686837"
+		]
+	},
+	{
+		"owner": "CloudTrail",
+		"source": "https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-supported-regions.html",
+		"id": [
+			"475085895292",
+			"086441151436",
+			"388731089494",
+			"113285607260",
+			"819402241893",
+			"977081816279",
+			"765225791966",
+			"492519147666",
+			"903692715234",
+			"284668455005",
+			"216624486486",
+			"681348832753",
+			"035351147821",
+			"859597730677",
+			"282025262664",
+			"262312530599",
+			"814480443879"
+		]
+	},
+	{
+		"owner": "Cloud Applicatoin Manager",
+		"source": "https://www.ctl.io/knowledge-base/cloud-application-manager/deploying-anywhere/using-your-aws-account/#create-an-iam-role-with-the-policy-chosen",
+		"id": [
+			"540339316802"
+		]
+	},
+	{
+		"owner": "CloudHiro",
+		"source": "https://cloudhiro.com/AWS/AWSRegistrationGuide.php",
+		"id": [
+			"545334166883"
+		]
+	},
+	{
+		"owner": "Armor Anywhere",
+		"source": [
+			"https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html",
+			"https://docs.armor.com/pages/viewpage.action?pageId=20709565"
+		],
+		"id": [
+			"679703615338",
+			"345186984524"
+		]
+	},
+	{
+		"owner": "ylastic",
+		"source": "https://blog.ylastic.com/post/153943542476/iam-role-with-external-id-for-cross-account-access",
+		"id": [
+			"710193521658"
+		]
+	},
+	{
+		"owner": "newrelic",
+		"source": [
+			"https://docs.newrelic.com/docs/integrations/amazon-integrations/get-started/connect-aws-services-infrastructure",
+			"https://docs.newrelic.com/docs/infrastructure/new-relic-infrastructure/data-instrumentation/amazon-aws-ec2-integration-infrastructure"
+		],
+		"id": [
+			"754728514883",
+			"017663287629"
+		]
+	},
+	{
+		"owner": "Genys",
+		"source": "https://help.mypurecloud.com/articles/create-iam-resources-to-invoke-an-aws-lambda-function/",
+		"id": [
+			"765628985471"
+		]
+	},
+	{
+		"owner": "qubole",
+		"source": "https://docs.qubole.com/en/latest/user-guide/managing-accounts/aws/iam-roles/override-iam-roles.html",
+		"id": [
+			"805246085872"
+		]
+	},
+	{
+		"owner": "Rudderstack",
+		"source": "https://www.rudderstack.com/docs/destinations/streaming-destinations/amazon-s3/",
+		"id": [
+			"422074288268"
+		]
+	},
+	{
+		"owner": "Cloudaware",
+		"id": [
+			"814021343637"
+		]
+	},
+	{
+		"owner": "GitLab",
+		"id": [
+			"855262394183",
+			"956491294349"
+		]
+	},
+	{
+		"owner": "site24x7",
+		"id": [
+			"949777495771"
+		]
+	}
+]
