@@ -12,8 +12,8 @@ fetch('data.json')
                     <tr>
                         <td>${item.owner}</td>
                         <td>${item.description}</td>
-                        <td>${item.id}</td>
                         <td><a href="${item.source}" target="_blank">Link</a></td>
+                        <td>${item.id}</td>
                     </tr>
                 `;
             });
