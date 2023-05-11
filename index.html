@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Search AWS Public Account Ids</title>
+    <title>Searchable JSON Data</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <style>
-        table {
+        .my-table {
+            table-layout: fixed;
             width: 100%;
         }
-        th, td {
-            padding: 0.5em;
-            text-align: left;
-        }
-        td:nth-child(3) {
+        .my-table th, .my-table td {
+            overflow: hidden;
+            text-overflow: ellipsis;
             white-space: nowrap;
         }
     </style>
@@ -19,17 +18,18 @@
 <body>
     <div class="container mt-5">
         <input type="text" id="search" class="form-control" placeholder="Search here...">
-        <table class="table table-striped mt-3">
+        <table class="table table-striped mt-3 my-table">
             <thead>
                 <tr>
                     <th>Owner</th>
                     <th>Description</th>
-                    <th>Source</th>
                     <th>ID</th>
+                    <th>Source</th>
                 </tr>
             </thead>
             <tbody id="table-body"></tbody>
         </table>
+        <div id="pagination" class="d-flex justify-content-center"></div>
     </div>
     <script src="app.js"></script>
 </body>
