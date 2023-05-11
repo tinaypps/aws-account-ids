@@ -1,7 +1,7 @@
 fetch('data.json')
     .then(response => response.json())
     .then(data => {
-        let pageSize = 5;
+        let pageSize = 10;
         let currentPage = 1;
         let totalPage = Math.ceil(data.length / pageSize);
 
