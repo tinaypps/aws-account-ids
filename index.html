@@ -1,36 +1,67 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Searchable JSON Data</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <style>
-        .my-table {
-            table-layout: fixed;
-            width: 100%;
-        }
-        .my-table th, .my-table td {
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Table</title>
 </head>
 <body>
-    <div class="container mt-5">
-        <input type="text" id="search" class="form-control" placeholder="Search here...">
-        <table class="table table-striped mt-3 my-table">
-            <thead>
-                <tr>
-                    <th>Owner</th>
-                    <th>Description</th>
-                    <th>ID</th>
-                    <th>Source</th>
-                </tr>
-            </thead>
-            <tbody id="table-body"></tbody>
-        </table>
-        <div id="pagination" class="d-flex justify-content-center"></div>
-    </div>
-    <script src="app.js"></script>
+  <h1>Data Table</h1>
+  <table id="data-table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Owner</th>
+        <th>Description</th>
+        <th>Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- This is where the data from the data.json file will be displayed -->
+    </tbody>
+  </table>
+  <input type="text" id="search" placeholder="Search...">
+  <button id="search-button">Search</button>
 </body>
+<script>
+  var data = JSON.parse(document.getElementById("data-json").textContent);
+  var table = document.getElementById("data-table");
+  var tbody = table.getElementsByTagName("tbody")[0];
+
+  // Add the data from the data.json file to the table
+  for (var i = 0; i < data.length; i++) {
+    var row = document.createElement("tr");
+    row.appendChild(document.createTextNode(data[i].id));
+    row.appendChild(document.createTextNode(data[i].owner));
+    row.appendChild(document.createTextNode(data[i].description));
+    row.appendChild(document.createTextNode(data[i].source));
+    tbody.appendChild(row);
+  }
+
+  // Handle the search button click
+  document.getElementById("search-button").addEventListener("click", function() {
+    var searchTerm = document.getElementById("search").value;
+    var rows = tbody.getElementsByTagName("tr");
+    var filteredRows = [];
+
+    // Filter the rows based on the search term
+    for (var i = 0; i < rows.length; i++) {
+      var row = rows[i];
+      var text = row.textContent;
+      if (text.indexOf(searchTerm) >= 0) {
+        filteredRows.push(row);
+      }
+    }
+
+    // Remove all the rows from the table
+    while (tbody.firstChild) {
+      tbody.removeChild(tbody.firstChild);
+    }
+
+    // Add the filtered rows back to the table
+    for (var i = 0; i < filteredRows.length; i++) {
+      tbody.appendChild(filteredRows[i]);
+    }
+  });
+</script>
 </html>
